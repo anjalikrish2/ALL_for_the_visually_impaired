@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // IMPORTANT: Replace with your actual token
-const BEARER_TOKEN = 'eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..LmxFz6ZQscOQFGbex6bP-g.vZumaIJWU_btI6Xd6G8aMHjsaG7J7mMhIRR9Uy5pvOw4xLGW_rkgZmt_9_YtJ8a51aOKlGPqNqgo32eY5nJfNt06HDS1d0YwY0QfEtWDJDoXtE_dqZPIf4O8os4UKYUIyq48HepqzglF_JK3_SsNeBhk88cBplw3h48QkkYh5zA3qymzgBVRA5GbflODav1SR02T1lDOhlhg9qXv00ugRg.1eFyltsH4lCCDPZ1zIz1Lg';
+const BEARER_TOKEN = 'Please insert postman api here';
 
 const CONTENT_TAGS = [
   'CEFR_GEN_M10_P1',
