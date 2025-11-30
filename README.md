@@ -2,6 +2,10 @@
 An audio-driven, keyboard-navigated, highly interactive learning tool built for visually impaired children.  
 This platform uses **text-to-speech**, **keyboard/joystick navigation**, and a **backend-to-frontend API pipeline** to deliver accessible MCQ learning experiences powered by real educational content from the **LearnerAI API**.
 
+
+**Developed for**: EkStep Foundation
+
+
 This repository contains:
 
 - 🎧 Full Web Speech API integration  
