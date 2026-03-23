@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // IMPORTANT: Replace with your actual token
-const BEARER_TOKEN = 'Please insert postman api here';
+const BEARER_TOKEN = '';
 
 const CONTENT_TAGS = [
   'CEFR_GEN_M10_P1',
